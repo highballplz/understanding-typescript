@@ -10,7 +10,7 @@
     "webpack-dev-server": "^5.0.4"
   },
   "scripts": {
-    "start": "lite-server",
+    "start": "webpack-dev-server",
     "build": "webpack"
   }
 }
